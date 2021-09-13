@@ -1,0 +1,7 @@
+.todos{
+  display:flex;
+  justify-content:center;
+}
+.todosBox{
+  width:500px;
+}
